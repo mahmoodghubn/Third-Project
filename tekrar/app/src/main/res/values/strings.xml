@@ -1,0 +1,52 @@
+<resources>
+    <string name="app_name">Third Project</string>
+    <string name="result_message">your result is </string>
+    <string name="start_button">start</string>
+    <string name="hint">name</string>
+    <string name="hint2">The answer</string>
+    <string name="finish_button">finish</string>
+    <string name="prev_button">prev</string>
+    <string name="next_button">next</string>
+    <string name="share_button">share</string>
+
+    <string-array name="questions">
+        <item>Which of the following men does not have a chemical element named for him?</item>
+        <item>Which of these U.S. presidents appeared on the television series Laugh-In?</item>
+        <item>Who did artist Grant Wood use as the model for the farmer in his classic painting "American Gothic"?</item>
+        <item>Khrushchev"'"s famous 1960 "shoe-banging" outburst at the U.N. was in response to a delegate from what nation?</item>
+        <item>Who won the FIFA Player of the Year award five times</item>
+        <item>How many arms does an octopus have</item>
+    </string-array>
+
+    <string-array name="firstChoices">
+        <item>Albert Einstein</item>
+        <item>Lyndon Johnson</item>
+        <item>Traveling salesman</item>
+        <item>Australia</item>
+        <item>Lionel Messi</item>
+    </string-array>
+
+    <string-array name="secondChoices">
+        <item>Issac Newton</item>
+        <item>Jimmy Carter</item>
+        <item>His dentist</item>
+        <item>Turkey</item>
+        <item>Cristiano Ronaldo</item>
+    </string-array>
+
+    <string-array name="thirdChoices">
+        <item>Niels Bohr</item>
+        <item>Richard Nixon</item>
+        <item>Local sheriff</item>
+        <item>The Netherlands</item>
+        <item>Diego Armando Maradona</item>
+    </string-array>
+
+    <string-array name="fourthChoices">
+        <item>Enrico Fermi</item>
+        <item>Gerald Ford</item>
+        <item>His butcher</item>
+        <item>The Philippines</item>
+        <item>Pele</item>
+    </string-array>
+</resources>

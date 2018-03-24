@@ -1,0 +1,43 @@
+<resources>
+
+    <style name="button" parent="Theme.AppCompat.Light">
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+        <item name="buttonStyle">@style/Button</item>
+        <item name="android:textViewStyle">@style/TextView</item>
+        <item name="checkboxStyle">@style/CheckBoxStyle</item>
+        <item name="radioButtonStyle">@style/MyRadioButtonStyle</item>
+        <item name="editTextStyle">@style/EditText</item>
+    </style>
+
+    <style name="TextView" parent="Widget.AppCompat.TextView.SpinnerItem">
+        <item name="android:textSize">@dimen/textSize</item>
+        <item name="android:textColor">@color/textView</item>
+
+    </style>
+
+    <style name="EditText" parent="@style/Widget.AppCompat.EditText">
+        <item name="android:textSize">@dimen/textSize</item>
+        <item name="android:textColorHint">@color/editTextHint</item>
+        <item name="android:textColor">@color/editText</item>
+    </style>
+
+    <style name="Button" parent="Widget.AppCompat.Button.Borderless">
+        <item name="android:textSize">@dimen/buttonTextSize</item>
+        <item name="android:background">@drawable/mybutton</item>
+    </style>
+
+    <style name="CheckBoxStyle" parent="Widget.AppCompat.CompoundButton.CheckBox">
+        <item name="android:textSize">@dimen/textSize</item>
+        <item name="android:textColor">@color/checkBoxText</item>
+        <item name="buttonTint">@color/buttonTint</item>
+    </style>
+
+    <style name="MyRadioButtonStyle" parent="Widget.AppCompat.CompoundButton.RadioButton">
+        <item name="android:textColor">@color/radioButtonText</item>
+        <item name="buttonTint">@color/buttonTint</item>
+        <item name="android:textSize">@dimen/textSize</item>
+    </style>
+
+</resources>

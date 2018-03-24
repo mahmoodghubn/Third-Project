@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="stroke">#000000</color>
+    <color name="solid">#2196F3</color>
+    <color name="textView">#004D40</color>
+
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <color name="editText">#303F9F</color>
+    <color name="editTextHint">#01579B</color>
+
+    <color name="checkBoxText">#00BCD4</color>
+
+    <color name="radioButtonText">#00BCD4</color>
+    <color name="buttonTint">#263238</color>
+
+</resources>
